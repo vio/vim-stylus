@@ -1,0 +1,11 @@
+{
+  "name": "vim-stylus",
+  "version": "1.0.0",
+  "description": "Syntax highlighting for [Stylus](http://learnboost.github.com/stylus/).",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "devDependencies": {
+    "known-css-properties": "^0.0.6"
+  }
+}
