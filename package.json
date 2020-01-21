@@ -6,6 +6,6 @@
     "build": "node index.js"
   },
   "devDependencies": {
-    "known-css-properties": "^0.15.0"
+    "known-css-properties": "^0.18.0"
   }
 }
